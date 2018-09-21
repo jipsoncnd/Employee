@@ -32,3 +32,5 @@ Platform
 Benefits
 
 new
+
+delete the new
